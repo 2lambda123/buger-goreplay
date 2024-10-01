@@ -7,7 +7,7 @@ require (
 	github.com/aws/aws-sdk-go v1.55.5
 	github.com/coocood/freecache v1.2.4
 	github.com/google/gopacket v1.1.20-0.20210429153827-3eaba0894325
-	github.com/gorilla/websocket v1.5.0
+	github.com/gorilla/websocket v1.5.3
 	github.com/klauspost/compress v1.16.5 // indirect
 	github.com/mattbaird/elastigo v0.0.0-20170123220020-2fe47fd29e4b
 	github.com/stretchr/testify v1.9.0
