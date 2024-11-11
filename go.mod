@@ -13,7 +13,7 @@ require (
 	github.com/stretchr/testify v1.9.0
 	github.com/xdg-go/scram v1.1.2
 	golang.org/x/net v0.30.0
-	golang.org/x/sys v0.26.0
+	golang.org/x/sys v0.27.0
 	k8s.io/apimachinery v0.27.1
 	k8s.io/client-go v0.27.1
 )
