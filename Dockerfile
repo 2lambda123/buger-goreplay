@@ -1,4 +1,4 @@
-FROM alpine:3.20 as builder
+FROM alpine:3.21 as builder
 
 ARG RELEASE_VERSION
 
